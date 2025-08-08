@@ -1,0 +1,182 @@
+[
+  {
+    "title": "The Ultimate PC Building Guide for 2024",
+    "slug": "pc-building-guide-2024",
+    "description": "Everything you need to know to build your own gaming PC from scratch, from picking parts to the first boot-up.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Building",
+    "content": "<p>Welcome to the most comprehensive guide to building your own PC in 2024. Whether you're a first-timer or a seasoned veteran, this guide will walk you through every step of the process, ensuring you create a powerful and stable machine tailored to your needs.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Step 1: Choosing Your Components</h3><p>The heart of your PC is its components. Here's a quick rundown of what you'll need:</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>CPU (Central Processing Unit):</strong> The brain of your computer.</li><li><strong>Motherboard:</strong> The backbone that connects everything.</li><li><strong>RAM (Random Access Memory):</strong> For multitasking and fast performance.</li><li><strong>Storage (SSD/HDD):</strong> Where your games and files live.</li><li><strong>GPU (Graphics Processing Unit):</strong> The most important part for gaming performance.</li><li><strong>PSU (Power Supply Unit):</strong> To power all your components.</li><li><strong>Case:</strong> To house and protect everything.</li></ul><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Step 2: The Assembly Process</h3><p>This is where the magic happens. We'll go through installing the CPU, seating the RAM, and mounting the motherboard into the case. Patience is key here. Take your time, follow the motherboard manual, and don't be afraid to watch a few video tutorials. We recommend grounding yourself to prevent static discharge from damaging your components.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Step 3: First Boot and OS Installation</h3><p>With everything assembled, it's time for the moment of truth. We'll guide you through the initial power-on, accessing the BIOS/UEFI, and installing your operating system (like Windows or Linux). Once your OS is installed, the final step is to install all the necessary drivers for your motherboard, GPU, and other peripherals. Congratulations, you've built your own PC!</p>"
+  },
+  {
+    "title": "Choosing the Right CPU for Gaming",
+    "slug": "choosing-cpu-for-gaming",
+    "description": "Intel vs. AMD? How many cores do you need? This guide breaks down how to select the perfect processor for your rig.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Components",
+    "content": "<p>Selecting the right CPU is one of the most critical decisions when building a gaming PC. The CPU, or Central Processing Unit, directly impacts your in-game performance, especially frame rates and simulation-heavy tasks.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Intel vs. AMD</h3><p>The eternal debate. In 2024, both Intel and AMD offer fantastic CPUs for gaming. AMD's Ryzen series often excels in multi-core performance, which is great for streaming and content creation alongside gaming. Intel's Core series, on the other hand, has historically held a slight edge in single-core performance, which can translate to higher peak frame rates in some titles.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Cores, Threads, and Clock Speeds</h3><p>What do these terms mean for gaming?</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>Cores:</strong> Modern games are getting better at utilizing multiple cores. For a dedicated gaming rig, 6 to 8 cores is the current sweet spot.</li><li><strong>Threads:</strong> Threads allow a single core to work on multiple tasks simultaneously. More threads help with background tasks and streaming.</li><li><strong>Clock Speed:</strong> Measured in GHz, this is how fast the CPU can process instructions. A higher clock speed is generally better for gaming.</li></ul><h3 class=\"text-2xl font-semibold mt-8 mb-4\">The Verdict</h3><p>Your \"perfect\" CPU depends on your budget and use case. If you only game, a high-clock-speed 6-core CPU might be perfect. If you stream, edit videos, or multitask heavily, investing in an 8-core or higher CPU from either camp is a wise choice. Always check recent benchmarks for the specific games you play before making a final decision.</p>"
+  },
+  {
+    "title": "Beginner's Guide to Overclocking",
+    "slug": "beginners-guide-to-overclocking",
+    "description": "Learn how to safely boost your PC's performance. We walk you through the basics of overclocking your CPU and GPU.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Performance",
+    "content": "<p>Overclocking is the process of making your computer's components run faster than their stock speeds. It's a great way to squeeze extra performance out of your hardware for free, but it must be done carefully to avoid instability or damage.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">What Can You Overclock?</h3><p>The most commonly overclocked components are the CPU, GPU, and RAM. For this beginner's guide, we'll focus on the CPU, as it often provides a noticeable performance boost in games and applications.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">The Basics: Voltage and Multiplier</h3><p>Overclocking is primarily done in your PC's BIOS/UEFI. The two main settings you'll be adjusting are:</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>CPU Core Ratio (Multiplier):</strong> This, multiplied by the Base Clock (BCLK, usually 100MHz), determines your final CPU speed. Increasing the multiplier is the primary way you'll overclock.</li><li><strong>CPU Core Voltage (Vcore):</strong> This is the power supplied to the CPU. Higher clock speeds require more voltage to remain stable, but too much voltage can generate excessive heat and damage your chip.</li></ul><h3 class=\"text-2xl font-semibold mt-8 mb-4\">A Safe Approach</h3><p>The key to safe overclocking is to make small, incremental changes. Increase your multiplier by one step, boot into your OS, and run a stress test (like Prime95 or Cinebench) to check for stability. If it's stable, reboot, and repeat. If it crashes, you may need to increase the voltage slightly. Always monitor your CPU temperatures closely; if they exceed 90-95°C under load, you need better cooling or a more conservative overclock. Good luck, and have fun!</p>"
+  },
+  {
+    "title": "Mastering Cable Management",
+    "slug": "mastering-cable-management",
+    "description": "Tidy cables not only look good but also improve airflow. Learn the secrets to a clean and professional-looking PC build.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Building",
+    "content": "<p>Cable management is an art form. A well-managed PC looks incredible and can improve thermal performance by reducing air obstruction. This guide will show you how to route your cables like a pro.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Essential Tools</h3><p>You don't need much, but these tools make the job much easier:</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>Zip Ties:</strong> The classic solution for bundling cables.</li><li><strong>Velcro Straps:</strong> Reusable and easier to adjust than zip ties.</li><li><strong>Cable Combs:</strong> Perfect for training your 24-pin and GPU power cables to be perfectly parallel.</li><li><strong>A Good Case:</strong> A modern case with plenty of routing channels and tie-down points is your best friend.</li></ul><h3 class=\"text-2xl font-semibold mt-8 mb-4\">The Strategy</h3><p>Plan your routes before you start plugging things in. Start with the biggest cables, like the 24-pin motherboard and 8-pin CPU power. Use the back panel of your case extensively. The goal is to hide as much of the cable slack as possible, leaving only the necessary ends visible in the main chamber. Take your time, and don't be afraid to redo a section if it doesn't look right.</p>"
+  },
+  {
+    "title": "How to Choose a Gaming Monitor",
+    "slug": "how-to-choose-gaming-monitor",
+    "description": "Decode the specs: resolution, refresh rate, response time, and panel types. Find the perfect screen for your games.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Components",
+    "content": "<p>Your monitor is your window to the game world. Choosing the right one is crucial. Let's break down the key specs.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Key Specifications</h3><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>Resolution:</strong> 1080p is the baseline, 1440p is the sweet spot for many, and 4K offers incredible detail for high-end rigs.</li><li><strong>Refresh Rate (Hz):</strong> This is how many times your screen updates per second. 144Hz is the standard for competitive gaming, providing a much smoother image than 60Hz.</li><li><strong>Response Time:</strong> A lower response time (e.g., 1ms) reduces motion blur.</li><li><strong>Panel Type:</strong> IPS panels have the best color and viewing angles. TN panels have the fastest response times but weaker colors. VA panels offer a good compromise with excellent contrast.</li></ul><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Adaptive Sync</h3><p>Look for NVIDIA G-Sync or AMD FreeSync. These technologies sync your monitor's refresh rate to your GPU's frame output, eliminating screen tearing and stutter for a smoother experience.</p>"
+  },
+  {
+    "title": "Mechanical Keyboard Switch Guide",
+    "slug": "mechanical-keyboard-switch-guide",
+    "description": "Linear, Tactile, or Clicky? Understand the different types of mechanical switches to find your perfect feel and sound.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Components",
+    "content": "<p>The feel of your keyboard comes down to its switches. There are three main types.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">The Main Types</h3><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>Linear Switches (e.g., Cherry MX Red):</strong> These offer a smooth, consistent keystroke with no tactile bump. They're quiet and favored by gamers for their speed and lack of resistance.</li><li><strong>Tactile Switches (e.g., Cherry MX Brown):</strong> These provide a noticeable 'bump' in the middle of the keypress, letting you know the keystroke has been registered. They're a great all-around switch for both typing and gaming.</li><li><strong>Clicky Switches (e.g., Cherry MX Blue):</strong> These are similar to tactile switches but add a loud, satisfying 'click' sound. They're fantastic for typists but can be too loud for some gamers or office environments.</li></ul><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Try Before You Buy</h3><p>The best way to know what you like is to try them out. Consider buying a switch tester, a small board with several different switch types, to find your perfect match before investing in a full keyboard.</p>"
+  },
+  {
+    "title": "Optimizing Windows for Peak Gaming",
+    "slug": "optimizing-windows-for-gaming",
+    "description": "Get every last frame out of your rig. We show you the essential Windows settings to tweak for maximum performance.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Performance",
+    "content": "<p>A few simple tweaks can make a big difference in your gaming performance.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Essential Tweaks</h3><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>Enable Game Mode:</strong> In Windows Settings, go to Gaming > Game Mode and turn it on. This prioritizes your game and helps prevent background tasks from interrupting.</li><li><strong>Update Graphics Drivers:</strong> Always keep your NVIDIA, AMD, or Intel graphics drivers up to date. This is the single most important thing for performance.</li><li><strong>Adjust Power Plan:</strong> Go to Control Panel > Power Options and select the 'High Performance' or 'Ultimate Performance' plan. This ensures your CPU isn't being throttled.</li><li><strong>Disable Startup Programs:</strong> Open Task Manager, go to the Startup tab, and disable any unnecessary programs from launching when you boot your PC.</li></ul>"
+  },
+  {
+    "title": "Air Cooling vs. Liquid Cooling",
+    "slug": "air-vs-liquid-cooling",
+    "description": "The ultimate showdown: fans versus pumps. We break down the pros, cons, and performance of each cooling solution.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Components",
+    "content": "<p>Keeping your CPU cool is vital for performance and longevity. But which is better: a traditional air cooler or an All-in-One (AIO) liquid cooler?</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Air Coolers</h3><p><strong>Pros:</strong> Simpler, more reliable (no pump to fail), and often cheaper. High-end air coolers can compete with many AIOs.<br><strong>Cons:</strong> Can be very large, potentially interfering with tall RAM or case side panels. Aesthetics might not be for everyone.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Liquid Coolers (AIOs)</h3><p><strong>Pros:</strong> Can offer superior cooling performance, especially on high-end CPUs. They look clean and modern, and move heat directly to the case's exhaust.<br><strong>Cons:</strong> More expensive, more complex, and have a potential point of failure (the pump). Small risk of leaks, though very rare with modern units.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">The Verdict</h3><p>For most users, a good air cooler is more than enough. If you're planning to do heavy overclocking or want the absolute best performance and aesthetics, an AIO is a great choice.</p>"
+  },
+  {
+    "title": "How to Clean Install Graphics Drivers",
+    "slug": "clean-install-gpu-drivers",
+    "description": "Fix graphical glitches and improve stability by completely uninstalling old drivers before installing new ones using DDU.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Performance",
+    "content": "<p>Sometimes, simply installing new graphics drivers over old ones can leave behind problematic files. A clean install can solve many issues.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Using DDU (Display Driver Uninstaller)</h3><p>DDU is a free tool that completely removes all traces of your old drivers.</p><ol class=\"list-decimal list-inside my-4 space-y-2\"><li>Download the latest version of DDU and your new graphics drivers.</li><li>Disconnect from the internet to prevent Windows from automatically installing a driver.</li><li>Boot Windows into Safe Mode.</li><li>Run DDU. Select your GPU type (NVIDIA/AMD) and click 'Clean and restart'.</li><li>Once back in normal Windows, run the installer for your new graphics drivers.</li><li>Reconnect to the internet. You're done!</li></ol>"
+  },
+  {
+    "title": "Understanding PC Bottlenecks",
+    "slug": "understanding-pc-bottlenecks",
+    "description": "Is your CPU holding back your GPU? Or is it your RAM? Learn how to identify and fix performance bottlenecks in your system.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Performance",
+    "content": "<p>A bottleneck is when one component limits the performance of another, preventing your PC from reaching its full potential.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">How to Identify a Bottleneck</h3><p>The easiest way is to use a monitoring tool like MSI Afterburner with RivaTuner Statistics Server. Play your game and watch your component usage.</p><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>GPU at 99-100% usage:</strong> This is ideal! It means your graphics card is working as hard as it can.</li><li><strong>CPU at 99-100% usage while GPU usage is low:</strong> You have a CPU bottleneck. Your CPU can't feed the GPU data fast enough. This is common at lower resolutions like 1080p.</li><li><strong>Neither at 100%:</strong> This could indicate a RAM or storage bottleneck, or that the game engine itself is the limit.</li></ul><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Fixing Bottlenecks</h3><p>If you have a CPU bottleneck, you can try increasing your game's resolution or graphical settings to put more load on the GPU. If you have a GPU bottleneck, you can lower settings. Ultimately, the only real fix is to upgrade the weaker component.</p>"
+  },
+  {
+    "title": "NVMe vs. SATA SSDs for Gaming",
+    "slug": "nvme-vs-sata-ssds",
+    "description": "Do faster NVMe drives actually reduce game load times compared to traditional SATA SSDs? We dive into the benchmarks.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Components",
+    "content": "<p>Solid State Drives (SSDs) are essential for fast loading times, but there are two main types: SATA and NVMe.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">The Speed Difference</h3><p>On paper, NVMe drives are massively faster. A typical SATA SSD has read speeds around 550 MB/s, while a Gen4 NVMe SSD can reach over 7,000 MB/s. That's more than 12 times faster!</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Does it Matter for Gaming?</h3><p>For game load times, the difference is surprisingly small. While an NVMe drive will load games faster than a SATA SSD, you're usually looking at a difference of only a few seconds. Where NVMe really shines is in large file transfers and content creation workloads.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">The Verdict</h3><p>If you're building a new PC, an NVMe drive is the clear choice as your primary OS and game drive, especially since their prices have become very competitive. However, if you already have a SATA SSD, upgrading to an NVMe drive solely for gaming might not be worth the cost for the small improvement in load times.</p>"
+  },
+  {
+    "title": "A Guide to High Refresh Rate Gaming",
+    "slug": "high-refresh-rate-gaming-guide",
+    "description": "What is a refresh rate, and why does 144Hz feel so much smoother than 60Hz? Explore the benefits of high refresh rate monitors.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Performance",
+    "content": "<p>High refresh rate gaming is one of the biggest upgrades you can make to your experience, especially for fast-paced games.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">What is Refresh Rate?</h3><p>Measured in Hertz (Hz), it's the number of times per second your monitor can draw a new image. A 60Hz monitor updates 60 times per second, while a 144Hz monitor updates 144 times per second.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">The Benefits</h3><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>Smoother Motion:</strong> The higher refresh rate provides a dramatically smoother and more fluid image. Everything from moving your mouse cursor to fast action in-game looks less blurry.</li><li><strong>Reduced Input Lag:</strong> Because the monitor is updating more frequently, the time between your action (like a mouse click) and seeing the result on screen is reduced.</li><li><strong>Competitive Advantage:</strong> In fast-paced shooters, seeing an enemy a few milliseconds sooner can make the difference between winning and losing a gunfight.</li></ul><p>To take advantage of a high refresh rate monitor, your PC needs a GPU powerful enough to render frames at or above that rate.</p>"
+  },
+  {
+    "title": "Choosing a Gaming Mouse",
+    "slug": "choosing-a-gaming-mouse",
+    "description": "Weight, grip style, DPI, and wireless vs. wired. We cover all the factors to consider when picking your perfect gaming mouse.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Components",
+    "content": "<p>A good gaming mouse is a critical part of your setup. Here's what to look for.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Key Factors</h3><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>Weight:</strong> Lighter mice (under 80g) are popular for fast-paced FPS games as they are easier to flick around. Heavier mice can feel more stable and controlled for other genres.</li><li><strong>Grip Style:</strong> Do you use a Palm, Claw, or Fingertip grip? The shape of the mouse should be comfortable for your grip style.</li><li><strong>DPI (Dots Per Inch):</strong> This is a measure of sensitivity. While manufacturers advertise huge DPI numbers, most pro gamers use a relatively low DPI (400-1600) for more precise aiming.</li><li><strong>Wired vs. Wireless:</strong> Modern wireless mice have no noticeable latency and are fantastic for freedom of movement. Wired mice are generally cheaper and you never have to worry about charging them.</li></ul>"
+  },
+  {
+    "title": "Quarterly PC Maintenance Checklist",
+    "slug": "pc-maintenance-checklist",
+    "description": "Keep your gaming rig in top condition. Follow our simple quarterly checklist for cleaning and software updates.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Building",
+    "content": "<p>Regular maintenance ensures your PC runs cool, quiet, and fast for years to come. Here’s a simple checklist to perform every 3-4 months.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Hardware Maintenance</h3><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>Dusting:</strong> Power down and unplug your PC. Use a can of compressed air to blow dust out of all case fans, fan filters, and heatsink fins (CPU and GPU).</li><li><strong>Cable Check:</strong> Gently check that all internal power and data cables are securely seated.</li></ul><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Software Maintenance</h3><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>Driver Updates:</strong> Check for and install the latest drivers for your GPU and motherboard chipset.</li><li><strong>Windows Update:</strong> Ensure Windows is fully up-to-date.</li><li><strong>Storage Cleanup:</strong> Run Windows' built-in Disk Cleanup utility to remove temporary files. Uninstall any games or programs you no longer use.</li></ul>"
+  },
+  {
+    "title": "Setting Up for a Game Stream",
+    "slug": "setting-up-for-streaming",
+    "description": "Ready to go live? This guide covers the essential hardware and software you'll need to start streaming on Twitch or YouTube.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Performance",
+    "content": "<p>Streaming your gameplay is a great way to share your passion. Here's how to get started.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Software</h3><p><strong>OBS Studio</strong> is the gold standard for streaming software. It's free, open-source, and incredibly powerful. You'll use it to create 'scenes' that combine your game capture, webcam, overlays, and alerts.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Essential Hardware</h3><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>A Good Microphone:</strong> Audio is king. A quality USB microphone is the best starting point for clear commentary.</li><li><strong>A Webcam:</strong> A 1080p webcam is a great place to start for showing your reactions to your audience.</li><li><strong>Good Lighting:</strong> A simple ring light or key light can dramatically improve your camera quality.</li><li><strong>(Optional) Capture Card:</strong> If you're streaming from a console or using a dual-PC setup for professional quality, a capture card is necessary.</li></ul>"
+  },
+  {
+    "title": "Understanding Motherboard Form Factors",
+    "slug": "motherboard-form-factors",
+    "description": "ATX, Micro-ATX, Mini-ITX. What's the difference and which one is right for your next PC build?",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Building",
+    "content": "<p>The motherboard form factor determines the size of the board and the case it will fit in.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">The Common Sizes</h3><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>ATX:</strong> The standard size. It offers the most features, including more PCIe slots for expansion cards, more RAM slots, and better connectivity options. Requires a mid-tower or full-tower case.</li><li><strong>Micro-ATX (mATX):</strong> A shorter version of ATX. It's a great middle ground, often offering a good balance of features and size, fitting in smaller and cheaper cases while usually still providing four RAM slots.</li><li><strong>Mini-ITX:</strong> The smallest common form factor. Perfect for compact, space-saving builds. You'll be limited to one PCIe slot (for your GPU) and typically two RAM slots, and they can be more challenging to build in due to the tight space.</li></ul>"
+  },
+  {
+    "title": "What is RAM and How Much Do You Need?",
+    "slug": "how-much-ram-for-gaming",
+    "description": "We explain what RAM does and help you decide if 16GB, 32GB, or even 64GB is the right amount for your gaming PC.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Components",
+    "content": "<p>RAM (Random Access Memory) is your PC's short-term memory. It stores data your computer is actively using for quick access.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">How Much for Gaming?</h3><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>16GB:</strong> This is the current sweet spot for most gaming PCs. It provides enough memory for almost any modern game, plus background tasks like Discord or a web browser.</li><li><strong>32GB:</strong> This is becoming the new standard for high-end builds. It's great for future-proofing, heavily modded games, or if you do content creation (like video editing) alongside gaming. The performance difference in most current games over 16GB is minimal, but it provides excellent headroom.</li><li><strong>64GB:</strong> This is overkill for gaming alone. This amount is for professional workstations, serious video editors, or those running complex simulations.</li></ul><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Don't Forget Speed!</h3><p>For modern AMD Ryzen and Intel Core CPUs, look for DDR5 RAM with speeds of at least 6000MT/s and low latency (e.g., CL30) for the best performance.</p>"
+  },
+  {
+    "title": "The Art of Troubleshooting a New PC Build",
+    "slug": "troubleshooting-new-pc-build",
+    "description": "Your new PC won't turn on? Don't panic. Follow these logical steps to diagnose and fix the most common build issues.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Building",
+    "content": "<p>It's the moment of truth, you press the power button, and... nothing. It happens to everyone. Here’s a checklist to find the problem.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">No Power at All</h3><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Is the power supply switch in the 'I' (On) position?</li><li>Is the wall outlet working?</li><li>Are all power cables (24-pin motherboard, 8-pin CPU, GPU power) fully seated on both the component and PSU side?</li><li>Are the tiny front panel connectors (power switch, reset switch) plugged into the correct pins on the motherboard? Check your motherboard manual!</li></ul><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Power On, But No Display (No POST)</h3><ul class=\"list-disc list-inside my-4 space-y-2\"><li>Is your monitor plugged into the graphics card, not the motherboard's video output?</li><li>Are the RAM sticks fully seated? Try removing them and reseating them until they click firmly into place.</li><li>Try booting with only one stick of RAM.</li><li>Check your motherboard for debug LEDs or a POST code display. These will tell you exactly where the system is getting stuck (e.g., CPU, DRAM, VGA, BOOT).</li></ul>"
+  },
+  {
+    "title": "How to Choose a Power Supply (PSU)",
+    "slug": "how-to-choose-a-psu",
+    "description": "The unsung hero of your PC. Learn about wattage, efficiency ratings (80 Plus), and modularity to pick a reliable PSU.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Components",
+    "content": "<p>A good Power Supply Unit (PSU) is crucial for a stable and safe system. Skimping on the PSU is a common mistake.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Wattage</h3><p>Your PSU's wattage must be enough to power all your components, with some headroom. For a mid-range gaming PC with a single GPU, a 650W-750W PSU is usually sufficient. For high-end systems with a powerful GPU like an RTX 4080 or 4090, 850W-1000W is recommended.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Efficiency Rating</h3><p>Look for an '80 Plus' rating. This certifies the PSU's efficiency at converting AC power from the wall to DC power for your components. The ratings, from worst to best, are: 80 Plus, Bronze, Silver, Gold, Platinum, Titanium. An 80 Plus Gold rated PSU is the sweet spot for most builds, offering great efficiency without a huge price premium.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">Modularity</h3><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>Non-Modular:</strong> All cables are permanently attached. Cheapest, but cable management is difficult.</li><li><strong>Semi-Modular:</strong> The essential motherboard and CPU cables are attached, but peripheral cables (SATA, PCIe) are detachable. A great balance of price and convenience.</li><li><strong>Fully-Modular:</strong> All cables are detachable. Offers the easiest building and cable management experience, but is the most expensive.</li></ul>"
+  },
+  {
+    "title": "Building Your First Custom Water Cooling Loop",
+    "slug": "custom-water-cooling-guide",
+    "description": "Ready to graduate from AIOs? This guide introduces the components and concepts of building a custom water cooling loop.",
+    "card_image_url": "https://placehold.co/600x400.png",
+    "image_url": "https://placehold.co/1200x600.png",
+    "category": "Building",
+    "content": "<p>Custom water cooling offers the ultimate in performance and aesthetics, but it's a project for experienced builders.</p><h3 class=\"text-2xl font-semibold mt-8 mb-4\">The Core Components</h3><ul class=\"list-disc list-inside my-4 space-y-2\"><li><strong>CPU/GPU Water Blocks:</strong> These replace the standard coolers and transfer heat to the water.</li><li><strong>Radiator:</strong> Like a car's radiator, this is where the heat is dissipated into the air via fans.</li><li><strong>Pump/Reservoir Combo:</strong> The heart of the loop, the pump circulates the coolant and the reservoir holds extra fluid and helps bleed air.</li><li><strong>Tubing:</strong> Can be soft flexible tubing (easier for beginners) or hard acrylic/PETG tubing (looks amazing but requires tools for bending).</li><li><strong>Fittings:</strong> These connect the tubing to all the components. Compression fittings are the most common type.</li><li><strong>Coolant:</strong> Specialized fluid, often colored, to circulate in the loop.</li></ul><h3 class=\"text-2xl font-semibold mt-8 mb-4\">The Process</h3><p>Planning is everything. You must map out your loop order carefully. Bending hardline tubing requires a heat gun and mandrels. Once assembled, you must perform a leak test for 24 hours using a leak testing tool or by powering only the pump with paper towels placed under every fitting to catch any potential drips before powering on the full system.</p>"
+  }
+]

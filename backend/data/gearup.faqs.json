@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6877cbecfb61e93016ec829c"
+  },
+  "question": "What are your shipping options?",
+  "answer": "We offer standard, expedited, and overnight shipping. Shipping costs and times vary based on your location and the selected option. You can see the estimated delivery date at checkout.",
+  "category": "Shipping",
+  "display_order": 1,
+  "created_at": {
+    "$date": "2025-07-14T15:12:29.261Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877cbecfb61e93016ec829d"
+  },
+  "question": "How do I track my order?",
+  "answer": "Once your order has shipped, you will receive an email with a tracking number and a link to the carrier's website. You can also find your tracking information in your account dashboard.",
+  "category": "Orders",
+  "display_order": 2,
+  "created_at": {
+    "$date": "2025-07-14T15:12:29.261Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877cbecfb61e93016ec829e"
+  },
+  "question": "What is your return policy?",
+  "answer": "We offer a 30-day return policy on most items. Products must be in new, unused condition with all original packaging. Some exclusions apply, such as on custom-built PCs. Please visit our returns page for full details.",
+  "category": "Returns",
+  "display_order": 3,
+  "created_at": {
+    "$date": "2025-07-14T15:12:29.261Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6877cbecfb61e93016ec829f"
+  },
+  "question": "Do you offer technical support for PC builds?",
+  "answer": "Yes! We have a dedicated team of technical experts available to help you with any part of your PC building process, from component selection to troubleshooting. Contact us via live chat, email, or phone.",
+  "category": "Support",
+  "display_order": 4,
+  "created_at": {
+    "$date": "2025-07-14T15:12:29.261Z"
+  }
+}]

@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@el-zazo/server-creator": "^0.0.1",
+    "dotenv": "^17.2.1",
+    "joi": "^17.13.3",
+    "mongoose": "^8.17.0"
+  }
+}

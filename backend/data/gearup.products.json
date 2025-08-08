@@ -1,0 +1,1091 @@
+[{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f40"
+  },
+  "name": "NVIDIA GeForce RTX 4080 Super",
+  "slug": "nvidia-geforce-rtx-4080-super",
+  "description": "Experience unparalleled gaming performance with the NVIDIA GeForce RTX 4080 Super. Featuring advanced ray tracing capabilities, DLSS 3.0, and 16GB of GDDR6X memory for smooth 4K gaming.",
+  "price": 1199.99,
+  "original_price": 1299.99,
+  "images": [
+    "https://placehold.co/600x400.png",
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 15,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9ef3"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-12-15T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f41"
+  },
+  "name": "AMD Radeon RX 7900 XTX",
+  "slug": "amd-radeon-rx-7900-xtx",
+  "description": "Dominate your games with the AMD Radeon RX 7900 XTX. Built on AMD's RDNA 3 architecture with 24GB of GDDR6 memory, this card delivers exceptional 4K gaming performance and content creation capabilities.",
+  "price": 999.99,
+  "original_price": 1099.99,
+  "images": [
+    "https://placehold.co/600x400.png",
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 12,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9ef3"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-12-10T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f42"
+  },
+  "name": "Intel Core i9-14900K",
+  "slug": "intel-core-i9-14900k",
+  "description": "Unleash extreme processing power with the Intel Core i9-14900K. With 24 cores (8P+16E) and up to 6.0GHz boost clock, this CPU delivers unmatched performance for gaming and content creation.",
+  "price": 589.99,
+  "original_price": 629.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 20,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9ef4"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-11-28T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f43"
+  },
+  "name": "AMD Ryzen 9 7950X3D",
+  "slug": "amd-ryzen-9-7950x3d",
+  "description": "Experience the ultimate gaming CPU with the AMD Ryzen 9 7950X3D. Featuring 16 cores, 32 threads, and AMD's revolutionary 3D V-Cache technology for unparalleled gaming performance.",
+  "price": 649.99,
+  "original_price": 699.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 18,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9ef4"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-11-15T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f44"
+  },
+  "name": "ASUS ROG Maximus Z790 Hero",
+  "slug": "asus-rog-maximus-z790-hero",
+  "description": "Build your dream gaming rig with the ASUS ROG Maximus Z790 Hero motherboard. Featuring support for Intel 13th/14th Gen processors, DDR5 memory, PCIe 5.0, and extensive cooling options.",
+  "price": 629.99,
+  "original_price": 649.99,
+  "images": [
+    "https://placehold.co/600x400.png",
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 10,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9ef5"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-10-20T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f45"
+  },
+  "name": "MSI MPG X670E Carbon WiFi",
+  "slug": "msi-mpg-x670e-carbon-wifi",
+  "description": "Elevate your AMD build with the MSI MPG X670E Carbon WiFi motherboard. Designed for Ryzen 7000 series processors with DDR5 support, PCIe 5.0, and robust power delivery for maximum performance.",
+  "price": 449.99,
+  "original_price": 479.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.7,
+  "stock_quantity": 14,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9ef5"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-10-15T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f46"
+  },
+  "name": "G.SKILL Trident Z5 RGB 32GB DDR5-6000",
+  "slug": "gskill-trident-z5-rgb-32gb-ddr5-6000",
+  "description": "Maximize your system's performance with G.SKILL Trident Z5 RGB DDR5 memory. This 32GB (2x16GB) kit runs at 6000MHz with tight timings and features customizable RGB lighting.",
+  "price": 189.99,
+  "original_price": 219.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 25,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9ef6"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-09-28T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f47"
+  },
+  "name": "Corsair Vengeance RGB 64GB DDR5-5600",
+  "slug": "corsair-vengeance-rgb-64gb-ddr5-5600",
+  "description": "Take your gaming and content creation to the next level with Corsair Vengeance RGB DDR5 memory. This 64GB (2x32GB) kit operates at 5600MHz and features dynamic RGB lighting with iCUE support.",
+  "price": 259.99,
+  "original_price": 299.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.7,
+  "stock_quantity": 15,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9ef6"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-09-15T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f48"
+  },
+  "name": "Samsung 990 PRO 2TB NVMe SSD",
+  "slug": "samsung-990-pro-2tb-nvme-ssd",
+  "description": "Experience lightning-fast storage with the Samsung 990 PRO NVMe SSD. With sequential read speeds up to 7,450 MB/s and write speeds up to 6,900 MB/s, this 2TB drive dramatically reduces load times for games and applications.",
+  "price": 189.99,
+  "original_price": 219.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 30,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9ef7"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-08-20T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f49"
+  },
+  "name": "WD_BLACK SN850X 4TB NVMe SSD",
+  "slug": "wd-black-sn850x-4tb-nvme-ssd",
+  "description": "Store your entire game library with the WD_BLACK SN850X NVMe SSD. This 4TB drive delivers read speeds up to 7,300 MB/s and features Game Mode 2.0 for optimized gaming performance.",
+  "price": 329.99,
+  "original_price": 379.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 20,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9ef7"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-08-10T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f4a"
+  },
+  "name": "Corsair RM850x 80+ Gold Power Supply",
+  "slug": "corsair-rm850x-80-gold-power-supply",
+  "description": "Power your gaming PC with confidence using the Corsair RM850x power supply. This fully modular 850W unit features 80+ Gold efficiency, silent operation, and Japanese capacitors for reliability.",
+  "price": 149.99,
+  "original_price": 169.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 22,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9ef8"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-07-25T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f4b"
+  },
+  "name": "be quiet! Dark Power 13 1000W Titanium",
+  "slug": "be-quiet-dark-power-13-1000w-titanium",
+  "description": "Experience premium power delivery with the be quiet! Dark Power 13. This 1000W Titanium-certified PSU features a fully modular design, silent operation, and advanced protection circuits for high-end gaming systems.",
+  "price": 269.99,
+  "original_price": 299.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 15,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9ef8"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-07-15T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f4c"
+  },
+  "name": "Lian Li O11 Dynamic EVO",
+  "slug": "lian-li-o11-dynamic-evo",
+  "description": "Showcase your gaming build in the Lian Li O11 Dynamic EVO. This premium mid-tower case features a modular design, excellent airflow, and tempered glass panels for displaying your components.",
+  "price": 169.99,
+  "original_price": 189.99,
+  "images": [
+    "https://placehold.co/600x400.png",
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 18,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9ef9"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-06-20T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f4d"
+  },
+  "name": "Fractal Design North",
+  "slug": "fractal-design-north",
+  "description": "Blend style and functionality with the Fractal Design North. This mid-tower case features a unique wood front panel, excellent airflow, and a versatile interior layout for easy building.",
+  "price": 129.99,
+  "original_price": 149.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 12,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9ef9"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-06-10T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f4e"
+  },
+  "name": "ASUS ROG Swift PG32UQX",
+  "slug": "asus-rog-swift-pg32uqx",
+  "description": "Experience gaming perfection with the ASUS ROG Swift PG32UQX. This 32-inch 4K Mini LED monitor features a 144Hz refresh rate, G-SYNC Ultimate, DisplayHDR 1400, and quantum dot technology for unparalleled visual quality.",
+  "price": 2499.99,
+  "original_price": 2999.99,
+  "images": [
+    "https://placehold.co/600x400.png",
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 5,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9efa"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-05-15T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f4f"
+  },
+  "name": "Samsung Odyssey OLED G9",
+  "slug": "samsung-odyssey-oled-g9",
+  "description": "Immerse yourself in gaming with the Samsung Odyssey OLED G9. This 49-inch ultrawide curved OLED monitor features a 240Hz refresh rate, 0.03ms response time, and DQHD resolution for the ultimate gaming experience.",
+  "price": 1599.99,
+  "original_price": 1799.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 8,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9efa"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-05-05T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f50"
+  },
+  "name": "SteelSeries Apex Pro 2",
+  "slug": "steelseries-apex-pro-2",
+  "description": "Gain a competitive edge with the SteelSeries Apex Pro 2. This premium gaming keyboard features adjustable OmniPoint 2.0 magnetic switches, per-key RGB lighting, OLED smart display, and aircraft-grade aluminum construction.",
+  "price": 199.99,
+  "original_price": 229.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 20,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9efb"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-04-20T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f51"
+  },
+  "name": "Razer Huntsman V2 Analog",
+  "slug": "razer-huntsman-v2-analog",
+  "description": "Experience next-level precision with the Razer Huntsman V2 Analog. This premium keyboard features analog optical switches with adjustable actuation, Chroma RGB lighting, and a multi-function digital dial.",
+  "price": 249.99,
+  "original_price": 269.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.7,
+  "stock_quantity": 15,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9efb"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-04-10T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f52"
+  },
+  "name": "Logitech G Pro X Superlight 2",
+  "slug": "logitech-g-pro-x-superlight-2",
+  "description": "Dominate the competition with the Logitech G Pro X Superlight 2. This ultra-lightweight wireless gaming mouse weighs less than 60g and features the HERO 2 sensor, up to 32,000 DPI, and 95-hour battery life.",
+  "price": 159.99,
+  "original_price": 179.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 25,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9efc"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-03-25T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f53"
+  },
+  "name": "Razer Viper V3 Pro",
+  "slug": "razer-viper-v3-pro",
+  "description": "Elevate your gameplay with the Razer Viper V3 Pro. This ultra-lightweight wireless esports mouse features Razer's Focus Pro 35K optical sensor, optical switches rated for 90 million clicks, and up to 90 hours of battery life.",
+  "price": 149.99,
+  "original_price": 169.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 22,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9efc"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-03-15T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f54"
+  },
+  "name": "SteelSeries Arctis Nova Pro Wireless",
+  "slug": "steelseries-arctis-nova-pro-wireless",
+  "description": "Experience premium gaming audio with the SteelSeries Arctis Nova Pro Wireless. This high-end headset features active noise cancellation, simultaneous 2.4GHz and Bluetooth connectivity, hot-swappable batteries, and a premium ComfortMAX design.",
+  "price": 349.99,
+  "original_price": 379.99,
+  "images": [
+    "https://placehold.co/600x400.png",
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 15,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9efd"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-02-20T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f55"
+  },
+  "name": "Audeze Maxwell Wireless",
+  "slug": "audeze-maxwell-wireless",
+  "description": "Discover audiophile-grade gaming with the Audeze Maxwell Wireless. This premium gaming headset features planar magnetic drivers, Dolby Atmos, head tracking, and up to 80 hours of battery life for unparalleled sound quality.",
+  "price": 299.99,
+  "original_price": 329.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 10,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9efd"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-02-10T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f56"
+  },
+  "name": "Secretlab Titan Evo 2022",
+  "slug": "secretlab-titan-evo-2022",
+  "description": "Game in comfort with the Secretlab Titan Evo 2022. This premium gaming chair features a magnetic memory foam head pillow, 4-way L-ADAPT lumbar support, and your choice of NEO Hybrid Leatherette or SoftWeave Plus fabric.",
+  "price": 549.99,
+  "original_price": 599.99,
+  "images": [
+    "https://placehold.co/600x400.png",
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 12,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9efe"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-01-25T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f57"
+  },
+  "name": "Herman Miller Embody Gaming Chair",
+  "slug": "herman-miller-embody-gaming-chair",
+  "description": "Invest in your health with the Herman Miller Embody Gaming Chair. Designed in collaboration with Logitech G, this ergonomic chair features dynamic pixel support, BackFit adjustment, and cooling copper-infused foam for all-day comfort.",
+  "price": 1695,
+  "original_price": 1795,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 5,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9efe"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2023-01-15T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f58"
+  },
+  "name": "Artisan Ninja FX Zero XL",
+  "slug": "artisan-ninja-fx-zero-xl",
+  "description": "Elevate your mouse control with the Artisan Ninja FX Zero XL. This premium gaming mousepad from Japan features a soft, consistent surface with just the right amount of stopping power for precise aiming.",
+  "price": 69.99,
+  "original_price": 79.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 20,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9eff"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-12-20T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f59"
+  },
+  "name": "Logitech G840 XL Gaming Mousepad",
+  "slug": "logitech-g840-xl-gaming-mousepad",
+  "description": "Cover your desk with the Logitech G840 XL Gaming Mousepad. This extra-large cloth surface provides consistent tracking for both your mouse and keyboard, with a rubber base to prevent slipping during intense gaming sessions.",
+  "price": 49.99,
+  "original_price": 59.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.7,
+  "stock_quantity": 25,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9eff"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-12-10T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f5a"
+  },
+  "name": "Xbox Elite Wireless Controller Series 2",
+  "slug": "xbox-elite-wireless-controller-series-2",
+  "description": "Take control with the Xbox Elite Wireless Controller Series 2. This premium controller features adjustable-tension thumbsticks, wrap-around rubberized grip, and up to 40 hours of battery life for PC and Xbox gaming.",
+  "price": 179.99,
+  "original_price": 199.99,
+  "images": [
+    "https://placehold.co/600x400.png",
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 18,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f00"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-11-25T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f5b"
+  },
+  "name": "Sony DualSense Edge",
+  "slug": "sony-dualsense-edge",
+  "description": "Gain a competitive advantage with the Sony DualSense Edge. This premium PS5 controller features customizable controls, adjustable trigger stops, and replaceable stick modules while retaining all the innovative features of the standard DualSense.",
+  "price": 199.99,
+  "original_price": 229.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.7,
+  "stock_quantity": 15,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f00"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-11-15T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f5c"
+  },
+  "name": "Elgato Facecam Pro",
+  "slug": "elgato-facecam-pro",
+  "description": "Stream in 4K with the Elgato Facecam Pro. This premium webcam features a Sony STARVIS CMOS sensor, f/2.0 all-glass lens, and 4K60 capability for professional-quality video content creation.",
+  "price": 299.99,
+  "original_price": 329.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 12,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f01"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-10-20T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f5d"
+  },
+  "name": "Logitech StreamCam",
+  "slug": "logitech-streamcam",
+  "description": "Create professional content with the Logitech StreamCam. This versatile webcam records in 1080p at 60fps with smart auto-focus, AI-enabled facial tracking, and USB-C connectivity for seamless streaming.",
+  "price": 169.99,
+  "original_price": 179.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.7,
+  "stock_quantity": 18,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f01"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-10-10T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f5e"
+  },
+  "name": "Shure SM7B Vocal Microphone",
+  "slug": "shure-sm7b-vocal-microphone",
+  "description": "Achieve broadcast-quality audio with the Shure SM7B. This legendary dynamic microphone features excellent shielding against electromagnetic hum and a smooth, flat, wide-range frequency response for clean vocals and commentary.",
+  "price": 399.99,
+  "original_price": 449.99,
+  "images": [
+    "https://placehold.co/600x400.png",
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 10,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f02"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-09-25T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f5f"
+  },
+  "name": "Elgato Wave:3 Microphone",
+  "slug": "elgato-wave-3-microphone",
+  "description": "Stream with crystal clear audio using the Elgato Wave:3. This digital USB condenser microphone features a 96kHz sample rate, proprietary Clipguard technology, and seamless integration with the Wave Link mixing app.",
+  "price": 149.99,
+  "original_price": 169.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 15,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f02"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-09-15T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f60"
+  },
+  "name": "Elgato Stream Deck MK.2",
+  "slug": "elgato-stream-deck-mk-2",
+  "description": "Control your stream with the Elgato Stream Deck MK.2. This customizable control panel features 15 LCD keys that can trigger actions in your streaming software, launch media, adjust audio, and much more.",
+  "price": 149.99,
+  "original_price": 179.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 20,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f03"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-08-20T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f61"
+  },
+  "name": "Elgato Key Light Air",
+  "slug": "elgato-key-light-air",
+  "description": "Illuminate your stream with the Elgato Key Light Air. This professional LED panel delivers 1400 lumens of adjustable brightness and color temperature, controlled wirelessly via the Control Center app or Stream Deck.",
+  "price": 129.99,
+  "original_price": 149.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.7,
+  "stock_quantity": 15,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f03"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-08-10T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f62"
+  },
+  "name": "PlayStation 5 Console",
+  "slug": "playstation-5-console",
+  "description": "Experience the next generation of gaming with the PlayStation 5. Featuring ultra-high speed SSD, 3D audio, haptic feedback, adaptive triggers, and ray tracing for immersive gaming experiences.",
+  "price": 499.99,
+  "original_price": 549.99,
+  "images": [
+    "https://placehold.co/600x400.png",
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 10,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f04"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-07-25T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f63"
+  },
+  "name": "PlayStation 5 Digital Edition",
+  "slug": "playstation-5-digital-edition",
+  "description": "Enjoy digital gaming with the PlayStation 5 Digital Edition. Featuring all the power of the standard PS5 but without a disc drive, this console is perfect for players who prefer digital game downloads.",
+  "price": 399.99,
+  "original_price": 449.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 15,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f04"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-07-15T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f64"
+  },
+  "name": "Xbox Series X Console",
+  "slug": "xbox-series-x-console",
+  "description": "Power your dreams with the Xbox Series X. Microsoft's flagship console delivers 4K gaming at up to 120 FPS, ray tracing, quick resume for multiple games, and backward compatibility with thousands of titles.",
+  "price": 499.99,
+  "original_price": 549.99,
+  "images": [
+    "https://placehold.co/600x400.png",
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 12,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f05"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-06-20T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f65"
+  },
+  "name": "Xbox Series S Console",
+  "slug": "xbox-series-s-console",
+  "description": "Experience next-gen gaming with the Xbox Series S. This all-digital console delivers 1440p gaming at up to 120 FPS, ray tracing, quick resume, and access to hundreds of games with Xbox Game Pass.",
+  "price": 299.99,
+  "original_price": 349.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 18,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f05"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-06-10T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f66"
+  },
+  "name": "Nintendo Switch OLED Model",
+  "slug": "nintendo-switch-oled-model",
+  "description": "Play anywhere with the Nintendo Switch OLED Model. Featuring a vibrant 7-inch OLED screen, enhanced audio, 64GB of storage, and a wired LAN port in the dock for stable online play.",
+  "price": 349.99,
+  "original_price": 379.99,
+  "images": [
+    "https://placehold.co/600x400.png",
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 20,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f06"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-05-25T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f67"
+  },
+  "name": "Nintendo Switch Lite",
+  "slug": "nintendo-switch-lite",
+  "description": "Game on the go with the Nintendo Switch Lite. This dedicated handheld console is designed for portable play, with integrated controls, a 5.5-inch touch screen, and compatibility with all Nintendo Switch games that support handheld mode.",
+  "price": 199.99,
+  "original_price": 229.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.7,
+  "stock_quantity": 25,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f06"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-05-15T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f68"
+  },
+  "name": "Analogue Pocket",
+  "slug": "analogue-pocket",
+  "description": "Rediscover retro gaming with the Analogue Pocket. This premium handheld console plays Game Boy, Game Boy Color, and Game Boy Advance cartridges on a stunning 3.5-inch 615 PPI LCD screen with perfect compatibility.",
+  "price": 219.99,
+  "original_price": 249.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 8,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f07"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-04-20T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f69"
+  },
+  "name": "Evercade VS Console",
+  "slug": "evercade-vs-console",
+  "description": "Enjoy retro gaming with the Evercade VS. This home console uses physical cartridges loaded with officially licensed retro games, supports up to 4 players, and outputs at 1080p for classic gaming on modern TVs.",
+  "price": 99.99,
+  "original_price": 129.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.7,
+  "stock_quantity": 12,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f07"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-04-10T07:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f6a"
+  },
+  "name": "8BitDo Ultimate Bluetooth Controller",
+  "slug": "8bitdo-ultimate-bluetooth-controller",
+  "description": "Take control with the 8BitDo Ultimate Bluetooth Controller. This premium gamepad features Hall Effect joysticks, trigger buttons, back paddles, and a charging dock with wireless 2.4G, Bluetooth, and wired USB-C connectivity options.",
+  "price": 69.99,
+  "original_price": 79.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 22,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f08"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-03-25T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f6b"
+  },
+  "name": "PlayStation DualSense Charging Station",
+  "slug": "playstation-dualsense-charging-station",
+  "description": "Keep your controllers ready with the PlayStation DualSense Charging Station. This official accessory charges up to two DualSense wireless controllers simultaneously without connecting them to your PS5 console.",
+  "price": 29.99,
+  "original_price": 39.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.7,
+  "stock_quantity": 30,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f08"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-03-15T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f6c"
+  },
+  "name": "Meta Quest 3",
+  "slug": "meta-quest-3",
+  "description": "Step into virtual reality with the Meta Quest 3. This all-in-one VR headset features mixed reality capabilities, pancake lenses for a slimmer profile, and a powerful Snapdragon XR2 Gen 2 processor for immersive gaming and experiences.",
+  "price": 499.99,
+  "original_price": 549.99,
+  "images": [
+    "https://placehold.co/600x400.png",
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.8,
+  "stock_quantity": 15,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f09"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-02-20T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f6d"
+  },
+  "name": "PlayStation VR2",
+  "slug": "playstation-vr2",
+  "description": "Experience next-generation VR with the PlayStation VR2. This advanced headset features 4K HDR OLED displays, eye tracking, headset feedback, adaptive triggers, and haptic feedback in the controllers for unparalleled immersion on PS5.",
+  "price": 549.99,
+  "original_price": 599.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.7,
+  "stock_quantity": 10,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f09"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-02-10T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f6e"
+  },
+  "name": "Meta Quest 3 Elite Strap with Battery",
+  "slug": "meta-quest-3-elite-strap-with-battery",
+  "description": "Enhance your VR experience with the Meta Quest 3 Elite Strap with Battery. This premium accessory provides better weight distribution, extended playtime, and a more comfortable fit for longer VR sessions.",
+  "price": 129.99,
+  "original_price": 149.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.6,
+  "stock_quantity": 20,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f0a"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-01-25T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f6f"
+  },
+  "name": "Valve Index Controllers",
+  "slug": "valve-index-controllers",
+  "description": "Experience the next level of VR interaction with Valve Index Controllers. These advanced controllers feature finger tracking, pressure sensitivity, and 87 sensors for natural hand presence in virtual reality.",
+  "price": 279.99,
+  "original_price": 299.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 8,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f0a"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2022-01-15T08:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6876540433ed5b3ab04f9f70"
+  },
+  "name": "Half-Life: Alyx",
+  "slug": "half-life-alyx",
+  "description": "Immerse yourself in Valve's VR masterpiece, Half-Life: Alyx. Set between Half-Life and Half-Life 2, this VR-exclusive title features physics-based gameplay, environmental puzzles, and an engaging story in the Half-Life universe.",
+  "price": 59.99,
+  "original_price": 69.99,
+  "images": [
+    "https://placehold.co/600x400.png"
+  ],
+  "rating": 4.9,
+  "stock_quantity": 50,
+  "category_id": {
+    "$oid": "6876540433ed5b3ab04f9f0b"
+  },
+  "on_sale": true,
+  "created_at": {
+    "$date": "2021-12-20T08:00:00.000Z"
+  }
+}]

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Background -->
+  <rect width="100" height="100" rx="20" fill="#1a1a2e" />
+  
+  <!-- Z letter stylized as gaming element -->
+  <path d="M25 30h50v10L45 70h30v10H25v-10l30-30H25z" fill="#4d5bf9" />
+  
+  <!-- Controller button elements -->
+  <circle cx="30" cy="50" r="5" fill="#ff2e63" />
+  <circle cx="70" cy="50" r="5" fill="#ff2e63" />
+  
+  <!-- Glow effect -->
+  <circle cx="50" cy="50" r="40" fill="none" stroke="#4d5bf9" stroke-width="2" opacity="0.3" />
+</svg>

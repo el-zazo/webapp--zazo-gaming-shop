@@ -1,0 +1,794 @@
+[
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9ef0"
+    },
+    "name": "PC Gaming",
+    "slug": "pc-gaming",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Everything you need for the ultimate PC gaming experience, from components to peripherals."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9ef1"
+    },
+    "name": "Gaming Laptops",
+    "slug": "gaming-laptops",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "High-performance laptops designed specifically for gaming on the go."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9ef2"
+    },
+    "name": "Gaming Desktops",
+    "slug": "gaming-desktops",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Pre-built gaming desktop computers for maximum performance."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9ef3"
+    },
+    "name": "Graphics Cards",
+    "slug": "graphics-cards",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "The latest GPUs for stunning visuals and smooth gameplay."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9ef4"
+    },
+    "name": "Processors",
+    "slug": "processors",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Gaming CPUs for maximum performance and multitasking capabilities."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9ef5"
+    },
+    "name": "Motherboards",
+    "slug": "motherboards",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "The foundation of your gaming PC build with the latest features and connectivity."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9ef6"
+    },
+    "name": "RAM",
+    "slug": "ram",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "High-speed memory modules for smooth gaming performance."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9ef7"
+    },
+    "name": "Storage",
+    "slug": "storage",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "SSDs and HDDs for fast load times and ample game storage."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9ef8"
+    },
+    "name": "Power Supplies",
+    "slug": "power-supplies",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Reliable power supplies to keep your gaming rig running smoothly."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9ef9"
+    },
+    "name": "PC Cases",
+    "slug": "pc-cases",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Stylish and functional cases to house your gaming components."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9efa"
+    },
+    "name": "Gaming Monitors",
+    "slug": "gaming-monitors",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "High refresh rate monitors for competitive gaming advantage."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9efb"
+    },
+    "name": "Gaming Keyboards",
+    "slug": "gaming-keyboards",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Mechanical and membrane keyboards designed for gaming performance."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9efc"
+    },
+    "name": "Gaming Mice",
+    "slug": "gaming-mice",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Precision mice with customizable DPI and programmable buttons."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9efd"
+    },
+    "name": "Gaming Headsets",
+    "slug": "gaming-headsets",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Immersive audio solutions for gaming communication and sound."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9efe"
+    },
+    "name": "Gaming Chairs",
+    "slug": "gaming-chairs",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Ergonomic chairs designed for long gaming sessions."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9eff"
+    },
+    "name": "Mousepads",
+    "slug": "mousepads",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Gaming surfaces for optimal mouse tracking and precision."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f00"
+    },
+    "name": "Controllers",
+    "slug": "controllers",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Game controllers for PC and console gaming."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f01"
+    },
+    "name": "Webcams",
+    "slug": "webcams",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "High-quality cameras for streaming and content creation."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f02"
+    },
+    "name": "Microphones",
+    "slug": "microphones",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Professional audio recording equipment for gaming and streaming."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f03"
+    },
+    "name": "Streaming Equipment",
+    "slug": "streaming-equipment",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Everything you need to start or upgrade your streaming setup."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f04"
+    },
+    "name": "PlayStation",
+    "slug": "playstation",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "PlayStation consoles, games, and accessories."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f05"
+    },
+    "name": "Xbox",
+    "slug": "xbox",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Xbox consoles, games, and accessories."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f06"
+    },
+    "name": "Nintendo",
+    "slug": "nintendo",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Nintendo consoles, games, and accessories."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f07"
+    },
+    "name": "Retro Gaming",
+    "slug": "retro-gaming",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Classic consoles and games from the golden age of gaming."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f08"
+    },
+    "name": "Console Accessories",
+    "slug": "console-accessories",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Enhance your console gaming experience with these accessories."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f09"
+    },
+    "name": "VR Headsets",
+    "slug": "vr-headsets",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Immersive virtual reality headsets for gaming and experiences."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f0a"
+    },
+    "name": "VR Accessories",
+    "slug": "vr-accessories",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Controllers, base stations, and other VR peripherals."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f0b"
+    },
+    "name": "VR Games",
+    "slug": "vr-games",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "The latest and greatest virtual reality gaming experiences."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f0c"
+    },
+    "name": "PC Games",
+    "slug": "pc-games",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Digital and physical copies of the latest PC games."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f0d"
+    },
+    "name": "Console Games",
+    "slug": "console-games",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Games for PlayStation, Xbox, and Nintendo platforms."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f0e"
+    },
+    "name": "Game Keys & Codes",
+    "slug": "game-keys-codes",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Digital game codes and subscription cards."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f0f"
+    },
+    "name": "Gaming Subscriptions",
+    "slug": "gaming-subscriptions",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Xbox Game Pass, PlayStation Plus, and other gaming subscriptions."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f10"
+    },
+    "name": "Gaming Routers",
+    "slug": "gaming-routers",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Low-latency routers optimized for online gaming."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f11"
+    },
+    "name": "Network Adapters",
+    "slug": "network-adapters",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Wired and wireless networking solutions for gaming."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f12"
+    },
+    "name": "Network Cables",
+    "slug": "network-cables",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "High-speed Ethernet cables for stable gaming connections."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f13"
+    },
+    "name": "Gaming Phones",
+    "slug": "gaming-phones",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Smartphones designed specifically for mobile gaming."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f14"
+    },
+    "name": "Mobile Controllers",
+    "slug": "mobile-controllers",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Controllers and attachments for mobile gaming."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f15"
+    },
+    "name": "Mobile Gaming Accessories",
+    "slug": "mobile-gaming-accessories",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Enhance your mobile gaming experience with these accessories."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f16"
+    },
+    "name": "Gaming Apparel",
+    "slug": "gaming-apparel",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Clothing and accessories featuring your favorite games and characters."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f17"
+    },
+    "name": "Collectibles",
+    "slug": "collectibles",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Figurines, statues, and other collectible items from popular games."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f18"
+    },
+    "name": "Posters & Wall Art",
+    "slug": "posters-wall-art",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Decorate your gaming space with posters and artwork from your favorite games."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f19"
+    },
+    "name": "Gaming Desks",
+    "slug": "gaming-desks",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Ergonomic desks designed for gaming setups."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f1a"
+    },
+    "name": "Cable Management",
+    "slug": "cable-management",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Solutions to keep your gaming setup clean and organized."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f1b"
+    },
+    "name": "Gaming Room Decor",
+    "slug": "gaming-room-decor",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "LED lights, signs, and other items to complete your gaming room."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f1c"
+    },
+    "name": "CPU Coolers",
+    "slug": "cpu-coolers",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Air and liquid cooling solutions for your processor."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f1d"
+    },
+    "name": "Case Fans",
+    "slug": "case-fans",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Additional cooling fans for optimal airflow in your PC case."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f1e"
+    },
+    "name": "Thermal Paste",
+    "slug": "thermal-paste",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Thermal compounds for better heat transfer between components."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f1f"
+    },
+    "name": "Gaming Speakers",
+    "slug": "gaming-speakers",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Speaker systems designed for immersive gaming audio."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f20"
+    },
+    "name": "Sound Cards",
+    "slug": "sound-cards",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Audio processing hardware for enhanced gaming sound."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f21"
+    },
+    "name": "Audio Accessories",
+    "slug": "audio-accessories",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Headphone stands, DACs, and other audio accessories."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f22"
+    },
+    "name": "RGB Controllers",
+    "slug": "rgb-controllers",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Hardware to control and synchronize your RGB lighting setup."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f23"
+    },
+    "name": "RGB Lighting Kits",
+    "slug": "rgb-lighting-kits",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "LED strips and lighting kits for your gaming setup."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f24"
+    },
+    "name": "RGB Fans",
+    "slug": "rgb-fans",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Cooling fans with customizable RGB lighting effects."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f25"
+    },
+    "name": "Action Games",
+    "slug": "action-games",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Fast-paced games focused on combat and movement."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f26"
+    },
+    "name": "Adventure Games",
+    "slug": "adventure-games",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Story-driven games with exploration and puzzle-solving."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f27"
+    },
+    "name": "RPG Games",
+    "slug": "rpg-games",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Role-playing games with character development and immersive worlds."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f28"
+    },
+    "name": "Strategy Games",
+    "slug": "strategy-games",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Games that require tactical thinking and planning."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f29"
+    },
+    "name": "Simulation Games",
+    "slug": "simulation-games",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Games that simulate real-world activities and scenarios."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f2a"
+    },
+    "name": "Sports Games",
+    "slug": "sports-games",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Virtual versions of popular sports and athletic competitions."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f2b"
+    },
+    "name": "Racing Games",
+    "slug": "racing-games",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Games focused on competitive driving and vehicle simulation."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f2c"
+    },
+    "name": "Fighting Games",
+    "slug": "fighting-games",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Combat games featuring one-on-one battles between characters."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f2d"
+    },
+    "name": "Horror Games",
+    "slug": "horror-games",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Scary games designed to frighten and unsettle players."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f2e"
+    },
+    "name": "Puzzle Games",
+    "slug": "puzzle-games",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Games that challenge your problem-solving abilities."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f2f"
+    },
+    "name": "Esports Equipment",
+    "slug": "esports-equipment",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Professional-grade gear used by esports competitors."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f30"
+    },
+    "name": "Team Merchandise",
+    "slug": "team-merchandise",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Apparel and accessories from your favorite esports teams."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f31"
+    },
+    "name": "Competitive Games",
+    "slug": "competitive-games",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Games with active competitive scenes and tournaments."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f32"
+    },
+    "name": "Flight Simulation",
+    "slug": "flight-simulation",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Joysticks, throttles, and other flight sim equipment."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f33"
+    },
+    "name": "Racing Simulation",
+    "slug": "racing-simulation",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Steering wheels, pedals, and other racing sim equipment."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f34"
+    },
+    "name": "Arcade Gaming",
+    "slug": "arcade-gaming",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Arcade sticks, cabinets, and other arcade-style gaming equipment."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f35"
+    },
+    "name": "Game Development",
+    "slug": "game-development",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Software and tools for creating your own games."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f36"
+    },
+    "name": "Game Testing",
+    "slug": "game-testing",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Services and equipment for testing game performance."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f37"
+    },
+    "name": "Gaming Guides",
+    "slug": "gaming-guides",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Strategy guides and tutorials for popular games."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f38"
+    },
+    "name": "Gaming Bundles",
+    "slug": "gaming-bundles",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Discounted packages of gaming products and accessories."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f39"
+    },
+    "name": "Limited Editions",
+    "slug": "limited-editions",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Rare and collectible limited edition gaming items."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f3a"
+    },
+    "name": "Pre-owned",
+    "slug": "pre-owned",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Used gaming equipment at discounted prices."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f3b"
+    },
+    "name": "Gaming Gift Cards",
+    "slug": "gaming-gift-cards",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Gift cards for various gaming platforms and stores."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f3c"
+    },
+    "name": "Gaming Books",
+    "slug": "gaming-books",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Books about gaming history, design, and culture."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f3d"
+    },
+    "name": "Gaming Movies",
+    "slug": "gaming-movies",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Films and documentaries about games and gaming culture."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f3e"
+    },
+    "name": "Gaming Snacks",
+    "slug": "gaming-snacks",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Snacks and drinks designed for gaming sessions."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f3f"
+    },
+    "name": "Gaming Energy Drinks",
+    "slug": "gaming-energy-drinks",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Energy drinks marketed towards gamers."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f40"
+    },
+    "name": "Cleaning Supplies",
+    "slug": "cleaning-supplies",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Products for cleaning and maintaining your gaming equipment."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f41"
+    },
+    "name": "Gaming Insurance",
+    "slug": "gaming-insurance",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Protection plans for your valuable gaming equipment."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f42"
+    },
+    "name": "Gaming Glasses",
+    "slug": "gaming-glasses",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Glasses designed to reduce eye strain during long gaming sessions."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f43"
+    },
+    "name": "Gaming Gloves",
+    "slug": "gaming-gloves",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Gloves designed to improve grip and reduce hand fatigue during gaming."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f44"
+    },
+    "name": "Wrist Rests",
+    "slug": "wrist-rests",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Ergonomic supports for your wrists during long gaming sessions."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f45"
+    },
+    "name": "Gaming Backpacks",
+    "slug": "gaming-backpacks",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Specialized backpacks for transporting gaming equipment."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f46"
+    },
+    "name": "Gaming Laptop Accessories",
+    "slug": "gaming-laptop-accessories",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Cooling pads, stands, and other accessories for gaming laptops."
+  },
+  {
+    "_id": {
+      "$oid": "6876540433ed5b3ab04f9f47"
+    },
+    "name": "Gaming Smartphone Accessories",
+    "slug": "gaming-smartphone-accessories",
+    "image_url": "https://placehold.co/400x300.png",
+    "description": "Accessories to enhance your mobile gaming experience."
+  }
+]
