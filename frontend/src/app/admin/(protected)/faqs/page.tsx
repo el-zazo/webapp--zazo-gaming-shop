@@ -370,5 +370,4 @@ export default function AdminFaqsPage() {
             </Card>
         </>
     );
-
-    
+}
