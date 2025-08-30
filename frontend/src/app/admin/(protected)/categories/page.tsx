@@ -456,5 +456,4 @@ export default function AdminCategoriesPage() {
             )}
         </>
     );
-
-    
+}
