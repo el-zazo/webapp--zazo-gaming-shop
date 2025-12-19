@@ -10,7 +10,8 @@ export const metadata: Metadata = {
   title: 'GearUp - Level Up Your Game',
   description: 'The best gaming hardware and accessories to enhance your gaming experience.',
   icons: {
-    icon: '/icon.svg',
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
   },
 };
 
@@ -25,6 +26,8 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" />
+        {/* Explicit icon link for older browsers / compatibility */}
+        <link rel="icon" href="/favicon.ico" />
       </head>
       <body className="font-body antialiased bg-background text-foreground">
         <AuthProvider>
