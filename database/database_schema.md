@@ -1,8 +1,8 @@
-# Zazo Gaming Shop Database Schema
+# GearUp Database Schema
 
 ## Overview
 
-This document describes the database schema for the Zazo Gaming Shop application. The database is built using MongoDB with Mongoose as the ODM (Object Document Mapper). The schema is designed to support an online gaming shop with features for product management, user accounts, forums, guides, and e-commerce functionality.
+This document describes the database schema for the GearUp application. The database is built using MongoDB with Mongoose as the ODM (Object Document Mapper). The schema is designed to support an online gaming shop with features for product management, user accounts, forums, guides, and e-commerce functionality.
 
 ## Database Entities
 

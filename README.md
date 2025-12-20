@@ -1,8 +1,8 @@
-# Zazo Gaming Shop
+# GearUp
 
 ## Project Overview
 
-Zazo Gaming Shop is a full-stack e-commerce platform specifically designed for gaming hardware and accessories. The application provides a seamless shopping experience for gamers looking to purchase the latest tech for their gaming setups.
+GearUp is a full-stack e-commerce platform specifically designed for gaming hardware and accessories. The application provides a seamless shopping experience for gamers looking to purchase the latest tech for their gaming setups.
 
 ## Project Structure
 

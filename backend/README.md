@@ -1,8 +1,8 @@
-# Zazo Gaming Shop - Backend
+# GearUp - Backend
 
 ## Overview
 
-This is the backend API server for the Zazo Gaming Shop e-commerce platform. It provides all the necessary endpoints for the frontend application to interact with the database and handle business logic.
+This is the backend API server for the GearUp e-commerce platform. It provides all the necessary endpoints for the frontend application to interact with the database and handle business logic.
 
 ## Tech Stack
 
